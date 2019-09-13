@@ -19,6 +19,10 @@
 *.tar.gz
 *.rar
 
+# Project Files
+*.iml
+.idea/
+
 # Swap files
 *.swp
 
